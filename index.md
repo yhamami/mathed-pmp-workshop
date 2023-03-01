@@ -33,7 +33,7 @@ The program will be posted [here](https://yhamami.github.io/mathed-pmp-workshop/
 
 # Location
 
-The workshop will take place on the campus of [Loughborough University](https://www.lboro.ac.uk/).
+On Monday (June 12) and Tuesday (June 13) the workshop will take in Room 13 of the [Schofield Building](https://maps.lboro.ac.uk/?l=schofield). On Wednesday (June 13) it will take place in room CC021 in the [James France building](https://maps.lboro.ac.uk/?l=james-france).
 
 # Online Attendance
 
