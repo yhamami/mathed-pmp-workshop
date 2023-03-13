@@ -13,6 +13,7 @@ The workshop will take place on **June 12-14, 2023** at [Loughborough University
 
 # Invited Speakers
 
+- **Silvia De Toffoli** (IUSS Pavia)
 - **Colin Foster** (Loughborough University)
 - **Karen François** (Vrije Universiteit Brussel)
 - **Valeria Giardino** (Institut Jean Nicod, CNRS)
@@ -24,7 +25,6 @@ The workshop will take place on **June 12-14, 2023** at [Loughborough University
 - **Dirk Schlimm** (McGill University)
 - **Nathalie Sinclair** (Simon Fraser University)
 - **Fenner Tanswell** (Vrije Universiteit Brussel)
-- **Silvia De Toffoli** (IUSS Pavia)
 - **Keith Weber** (Rutgers University)
 
 # Program
@@ -33,7 +33,7 @@ The program will be posted [here](https://yhamami.github.io/mathed-pmp-workshop/
 
 # Location
 
-On Monday (June 12) and Tuesday (June 13) the workshop will take in Room 13 of the [Schofield Building](https://maps.lboro.ac.uk/?l=schofield). On Wednesday (June 13) it will take place in room CC021 in the [James France building](https://maps.lboro.ac.uk/?l=james-france).
+On Monday (June 12) and Tuesday (June 13) the workshop will take place in Room 13 of the [Schofield Building](https://maps.lboro.ac.uk/?l=schofield). On Wednesday (June 13) it will take place in room CC021 in the [James France building](https://maps.lboro.ac.uk/?l=james-france).
 
 # Online Attendance
 
