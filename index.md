@@ -7,7 +7,7 @@ layout: page
 
 # About
 
-The objective of this workshop is to bring together **mathematics educators** and **philosophers of mathematical practice** to discuss topics lying at the crossroads of the two fields. The workshop is meant as an incentive for reseachers from both fields to make a step towards the other one. It will also be the occasion to reflect more generally on the most beneficial ways for mathematics education and the philosophy of mathematical practice to interact.
+The objective of this workshop is to bring together **mathematics educators** and **philosophers of mathematical practice** to discuss topics lying at the crossroads of the two fields. The workshop is meant as an incentive for researchers from both fields to make a step towards the other one. It will also be the occasion to reflect more generally on the most beneficial ways for mathematics education and the philosophy of mathematical practice to interact.
 
 The workshop will take place on **June 12-14, 2023** at [Loughborough University](https://www.lboro.ac.uk/).
 
