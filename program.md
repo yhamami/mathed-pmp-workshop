@@ -52,7 +52,7 @@ layout: page
 
 # Abstracts
 
-**Silvia De Toffoli (IUSS Pavia): **
+**Silvia De Toffoli (IUSS Pavia): _TBA_**
 
 **Colin Foster (Loughborough University): _Teaching problem solving in school mathematics_**
 
@@ -100,9 +100,9 @@ Budapest, Hungary, July 10-14, 2023.
 
 Hersh, Reuben (1997). _What is Mathematics, Really?_ Jonathan Cape, London.
 
-**Valeria Giardino (Institut Jean Nicod, CNRS): **
+**Valeria Giardino (Institut Jean Nicod, CNRS): _TBA_**
 
-**Yacin Hamami (FNRS, Université de Liège): **
+**Yacin Hamami (FNRS, Université de Liège): _TBA_**
 
 **Gila Hanna (University of Toronto): _Interactive theorem provers in mathematical practice and teaching_**
 
@@ -112,19 +112,19 @@ As interactive theorem provers become more user-friendly and gain wider acceptan
 
 In this talk I discuss how we do, and how we should, conceive of the relationship between the disciplines of mathematics education (ME) and the philosophy of mathematical practice (PMP). To do this I first review some literature on interdisciplinarity, and then give a personal history of the development of mathematical cognition as a research field. Using this as one model of how interdisciplinary fields emerge, I discuss some possible options for the future of the PMP/ME relationship.
 
-**Brendan Larvor (University of Hertfordshire): **
+**Brendan Larvor (University of Hertfordshire): _TBA_**
 
-**Ellen Lehet (Lees-McRae College): **
+**Ellen Lehet (Lees-McRae College): _TBA_**
 
-**Dirk Schlimm (McGill University): **
+**Dirk Schlimm (McGill University): _TBA_**
 
 **Nathalie Sinclair (Simon Fraser University): _Aesthetic considerations in mathematics education (research)_**
 
 Many scholars have argued that aesthetics play a significant role in the practice of mathematics. I have been interested in how these arguments matter in the context of mathematics education. In this talk, I will survey some of the different ways in which the concept of aesthetics has been used, both historically in mathematics-related research, but also in more contemporary philosophical scholarship. I will present an inclusive materialist view of aesthetics and describe examples of how it has been used in mathematics education research.
 
-**Fenner Tanswell (Vrije Universiteit Brussel): **
+**Fenner Tanswell (Vrije Universiteit Brussel): _TBA_**
 
-**Keith Weber (Rutgers University): **
+**Keith Weber (Rutgers University): _TBA_**
 
 
 
