@@ -40,7 +40,7 @@ layout: page
 
 
 | --------- | ---------- |
-| 9:00—9:30 | Welcome |
+| 9:00—9:30 | Welcome & Coffee |
 | 9:30—10:15 | Talk 11|
 | 10:15—11:00 | Talk 12|
 | 11:00—11:30 | Coffee Break |
@@ -100,7 +100,9 @@ Budapest, Hungary, July 10-14, 2023.
 
 Hersh, Reuben (1997). _What is Mathematics, Really?_ Jonathan Cape, London.
 
-**Valeria Giardino (Institut Jean Nicod, CNRS): _TBA_**
+**Valeria Giardino (Institut Jean Nicod, CNRS): _From research to the class: on the collaboration between cognitive science and philosophy to support mathematical education_**
+
+In the past years, many cognitive studies have looked into the cognitive “building blocks” of mathematical reasoning, which have been described as the cognitive foundations of mathematics or the core knowledge systems for arithmetic and geometry (Dehaene 1997; Butterworth 1999; Kinzler & Spelke 2007, Carey 2009). At the same time, some interest has grown in the philosophy community towards the practice of mathematics, by reviving topics such as the use of visualizations, diagrams and notations in mathematics (for a survey, see Giardino 2017 and Carter 2019,). In this latter framework, I discussed in previous work the role of cognitive tools in mathematics, by stressing the way in which they are acted upon and manipulated by the experts, and I proposed to think in terms of their “representational affordances” (Giardino 2018). In my view, the work with cognitive artifacts constitutes another building block for mathematical reasoning, which up to now has attracted only in part the attention of cognitive scientists. In my talk, I will discuss the possibility of a collaboration between philosophy and cognitive science on the topic of cognitive artifacts to the aim of bringing to useful suggestions for mathematical education.
 
 **Yacin Hamami (FNRS, Université de Liège): _TBA_**
 
@@ -112,11 +114,17 @@ As interactive theorem provers become more user-friendly and gain wider acceptan
 
 In this talk I discuss how we do, and how we should, conceive of the relationship between the disciplines of mathematics education (ME) and the philosophy of mathematical practice (PMP). To do this I first review some literature on interdisciplinarity, and then give a personal history of the development of mathematical cognition as a research field. Using this as one model of how interdisciplinary fields emerge, I discuss some possible options for the future of the PMP/ME relationship.
 
-**Brendan Larvor (University of Hertfordshire): _TBA_**
+**Brendan Larvor (University of Hertfordshire): _Every classroom is multicultural_**
 
-**Ellen Lehet (Lees-McRae College): _TBA_**
+Ten years ago, the UK Arts and Humanities Research Council funded the Mathematical Cultures Network. This was a series of three meetings, the last of which was on education. In this talk, I will briefly recount some of the contributions that made a difference to the way I think about culture and education. I will present and argue for a general model of culture and describe some of the things I have tried to do with it. 
 
-**Dirk Schlimm (McGill University): _TBA_**
+**Ellen Lehet (Lees-McRae College): _Mathematical explanation in the classroom_**
+
+Explanation is an inherent part of education. When we introduce students to a new concept, we provide some form of explanation to help familiarize them with the concept and situate it within their conceptual framework. When we assess students, we often ask them to not only provide an answer to a question but also to explain their answer. Explanation has also received increasing attention within the philosophy of mathematics. In particular, questions about intra-mathematical explanation—explanation within mathematics—have been considered. However, the question of how philosophical conceptions of intra-mathematical explanation relate to mathematics education has received little attention. In this presentation, I take the stance that philosophical theories of intra-mathematical explanation should be applicable to mathematics education and that results from mathematics education should be considered when evaluating philosophical theories. I will consider how some prominent features of philosophical theories of explanation apply in the classroom. In doing so, I will share some methods that I have tried in the classroom to provide students with explanations, encourage students to present their own explanations, and emphasize the value of explanation. I will comment on the successes and failures of these methods and will consider what we can learn about the relation of explanation and education from these attempts.
+
+**Dirk Schlimm (McGill University): _Learning and understanding mathematical notations_**
+
+The use of notations is an important aspect of mathematical practice, but in order to be used, a notation must first of all be learned and understood. This is an area where philosophy of mathematical practice and mathematics education intersect. In this talk, I argue, on the one hand, that the systematic study of notations together with the cognitive and material requirements for their use can inform mathematics education and, on the other hand, that the study of what works and what doesn't work in mathematics education can inform us about the efficacy of notational design features. Examples from arithmetic and logic will be used to illustrate these claims.
 
 **Nathalie Sinclair (Simon Fraser University): _Aesthetic considerations in mathematics education (research)_**
 
