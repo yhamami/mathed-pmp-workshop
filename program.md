@@ -132,7 +132,9 @@ Many scholars have argued that aesthetics play a significant role in the practic
 
 **Fenner Tanswell (Vrije Universiteit Brussel): _TBA_**
 
-**Keith Weber (Rutgers University): _TBA_**
+**Keith Weber (Rutgers University): _The permissibility of diagrams in mathematical proofs_**
+
+I will present studies in which I investigate what types of diagrams that undergraduates and mathematicians believe are acceptable in proofs in real analysis. I will show how Larvor's (2017, Synthese) distinction between metrical and non-metrical inferences can account for both undergraduates' and mathematicians' judgments. I will argue that this illustrates ways in which the philosophy of mathematical practice (PMP) can inform research in mathematics education (RME) and vice versa. In the PMP to RME direction, Larvor's analysis provided a useful lens in which to interpret my data. In the RME to PMP direction, my data provided empirical support for some speculations in Larvor's paper while adding nuance to others. 
 
 
 
