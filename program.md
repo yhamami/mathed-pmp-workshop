@@ -130,7 +130,9 @@ The use of notations is an important aspect of mathematical practice, but in ord
 
 Many scholars have argued that aesthetics play a significant role in the practice of mathematics. I have been interested in how these arguments matter in the context of mathematics education. In this talk, I will survey some of the different ways in which the concept of aesthetics has been used, both historically in mathematics-related research, but also in more contemporary philosophical scholarship. I will present an inclusive materialist view of aesthetics and describe examples of how it has been used in mathematics education research.
 
-**Fenner Tanswell (Vrije Universiteit Brussel): _TBA_**
+**Fenner Tanswell (Vrije Universiteit Brussel): _Proof identity, essential ideas, and translations between algebra and diagram_**
+
+In this talk I will discuss what it means for two proofs to be "the same" in terms of sharing essential ideas. Looking at many proofs Sangwin (2023) collected of the summation of the first n odd positive integers, we explored whether identifying the essential ideas of various proofs could generate new proof ideas, in particular whether algebraic proofs will have diagrammatic equivalents and vice versa. We found that it is possible to identify and generalise several essential ideas, but that translation nonetheless did not match the proofs one-to-one. Form and content cannot be easily disentangled, and translation is a creative act. I will discuss this as having both philosophical and educational implications, and the broader benefits of collaboration between maths education and philosophy of maths. (This is joint work with Chris Sangwin.)
 
 **Keith Weber (Rutgers University): _The permissibility of diagrams in mathematical proofs_**
 
