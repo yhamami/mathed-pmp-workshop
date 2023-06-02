@@ -52,7 +52,9 @@ layout: page
 
 # Abstracts
 
-**Silvia De Toffoli (IUSS Pavia): _TBA_**
+**Silvia De Toffoli (IUSS Pavia School for Advanced Studies): _What mathematical explanation cannot be_**
+
+Recent works in the philosophy of mathematics and mathematical education have argued for the thesis that mathematical explanation should be cashed out in terms of understanding.  To be sure, the details of the various proposals are different – but they share a common core: providing an account that characterizes mathematical explanation in terms of the particular type of understanding it generates.  In this talk, I explore some reasons to think that this idea is untenable.  Rather than analyzing a unified phenomenon, I will suggest that the literature is conflating two different (albeit related) phenomena under the same label, a technical and a pre-theoretical one.  The former is a type of scientific explanation in which both the explanandum and the explanans are mathematical.  The latter is a broader phenomenon in which explaining is taken to indicate a process of clarification that answers a why or how question. 
 
 **Colin Foster (Loughborough University): _Teaching problem solving in school mathematics_**
 
