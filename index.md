@@ -24,7 +24,7 @@ The workshop will take place on **June 12-14, 2023** at [Loughborough University
 - **Ellen Lehet** (Lees-McRae College)
 - **Dirk Schlimm** (McGill University)
 - **Nathalie Sinclair** (Simon Fraser University)
-- **Fenner Tanswell** (Vrije Universiteit Brussel)
+- **Fenner Tanswell** (TU Berlin)
 - **Keith Weber** (Rutgers University)
 
 # Program
