@@ -17,7 +17,7 @@ The workshop will take place on **June 12-14, 2023** at [Loughborough University
 - **Colin Foster** (Loughborough University)
 - **Karen François** (Vrije Universiteit Brussel)
 - **Valeria Giardino** (Institut Jean Nicod, CNRS)
-- **Yacin Hamami** (FNRS, Université de Liège)
+- **Yacin Hamami** (ETH Zürich)
 - **Gila Hanna** (University of Toronto)
 - **Matthew Inglis** (Loughborough University)
 - **Brendan Larvor** (University of Hertfordshire)
@@ -49,7 +49,7 @@ For any questions, please send an email to yacin dot hamami at uliege dot be or 
 
 # Organizers
 
-- [Yacin Hamami](https://www.yacinhamami.com/) (FNRS, Université de Liège)
+- [Yacin Hamami](https://www.yacinhamami.com/) (ETH Zürich)
 - [Matthew Inglis](https://www.lboro.ac.uk/departments/maths-education/staff/matthew-inglis/) (Loughborough University)
 - [Brendan Larvor](https://brendanlarvor.wordpress.com/) (University of Hertfordshire)
 - [Keith Weber](https://gse.rutgers.edu/faculty/keith-weber/) (Rutgers University)
