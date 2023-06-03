@@ -12,39 +12,40 @@ layout: page
 
 | --------- | ---------- |
 | 9:30—10:00 | Welcome & Coffee |
-| 10:00—10:45 | Talk 1|
+| 10:00—10:45 | **Gila Hanna** (University of Toronto) <br /> _Interactive theorem provers in mathematical practice and teaching_|
 | 10:45—11:15 | Coffee Break |
-| 11:15—12:00 | Talk 2|
+| 11:15—12:00 | **Brendan Larvor** (University of Hertfordshire) <br /> _Every classroom is multicultural_|
 | 12:00—14:00 | Lunch |
-| 14:00—14:45 | Talk 3|
+| 14:00—14:45 | **Fenner Tanswell** (TU Berlin) <br /> _Proof identity, essential ideas, and translations between algebra and diagram_|
 | 14:45—15:00 | Coffee Break |
-| 15:00—15:45 | Talk 4|
+| 15:00—15:45 | **Keith Weber** (Rutgers University) <br />  _The permissibility of diagrams in mathematical proofs_|
 | 15:45—16:15 | Coffee Break |
-| 16:15—17:00|  Talk 5| 
+| 16:15—17:00| **Dirk Schlimm** (McGill University) <br /> _Learning and understanding mathematical notations_ | 
 
 **Tuesday 13 June 2023**
 
 | --------- | ---------- |
 | 9:30—10:00 | Welcome & Coffee |
-| 10:00—10:45 | Talk 6|
+| 10:00—10:45 | **Karen François** (Vrije Universiteit Brussel) <br />  _The interaction between philosophy of mathematical practices and mathematics education: concept
+clarification and exemplar_|
 | 10:45—11:15 | Coffee Break |
-| 11:15—12:00 | Talk 7|
+| 11:15—12:00 | **Colin Foster** (Loughborough University) <br /> _Teaching problem solving in school mathematics_|
 | 12:00—14:00 | Lunch |
-| 14:00—14:45 | Talk 8|
+| 14:00—14:45 | **Ellen Lehet** (Lees-McRae College) <br /> _Mathematical explanation in the classroom_|
 | 14:45—15:00 | Coffee Break |
-| 15:00—15:45 | Talk 9|
+| 15:00—15:45 | **Silvia De Toffoli** (IUSS Pavia School for Advanced Studies) <br /> _What mathematical explanation cannot be_|
 | 15:45—16:15 | Coffee Break |
-| 16:15—17:00|  Talk 10| 
+| 16:15—17:00|  **Nathalie Sinclair** (Simon Fraser University) <br /> _Aesthetic considerations in mathematics education (research)_ | 
 
 **Wednesday 14 June 2023**
 
 
 | --------- | ---------- |
 | 9:00—9:30 | Welcome & Coffee |
-| 9:30—10:15 | Talk 11|
-| 10:15—11:00 | Talk 12|
+| 9:30—10:15 | **Matthew Inglis** (Loughborough University) <br /> _The relationship between the philosophy of mathematical practice and mathematics education_|
+| 10:15—11:00 | **Yacin Hamami** (ETH Zürich) <br />  _Should learning be an object of study for the philosophy of mathematics?_|
 | 11:00—11:30 | Coffee Break |
-| 11:30—12:15 | Talk 13|
+| 11:30—12:15 | **Valeria Giardino** (Institut Jean Nicod, CNRS) <br /> _From research to the class: on the collaboration between cognitive science and philosophy to support mathematical education_|
 | 12:15—14:00 | Lunch |
 
 
@@ -106,7 +107,9 @@ Hersh, Reuben (1997). _What is Mathematics, Really?_ Jonathan Cape, London.
 
 In the past years, many cognitive studies have looked into the cognitive “building blocks” of mathematical reasoning, which have been described as the cognitive foundations of mathematics or the core knowledge systems for arithmetic and geometry (Dehaene 1997; Butterworth 1999; Kinzler & Spelke 2007, Carey 2009). At the same time, some interest has grown in the philosophy community towards the practice of mathematics, by reviving topics such as the use of visualizations, diagrams and notations in mathematics (for a survey, see Giardino 2017 and Carter 2019,). In this latter framework, I discussed in previous work the role of cognitive tools in mathematics, by stressing the way in which they are acted upon and manipulated by the experts, and I proposed to think in terms of their “representational affordances” (Giardino 2018). In my view, the work with cognitive artifacts constitutes another building block for mathematical reasoning, which up to now has attracted only in part the attention of cognitive scientists. In my talk, I will discuss the possibility of a collaboration between philosophy and cognitive science on the topic of cognitive artifacts to the aim of bringing to useful suggestions for mathematical education.
 
-**Yacin Hamami (FNRS, Université de Liège): _TBA_**
+**Yacin Hamami (ETH Zürich): _Should learning be an object of study for the philosophy of mathematics?_**
+
+Learning, conceived as the acquisition of knowledge, skills, and understanding, is obviously an epistemological notion. And yet, it has received almost no attention in the philosophy of mathematics. This situation may change with the emergence of the philosophy of mathematical practice. In this talk, I will discuss a number of works in this latter field where learning appears to play a significant role. Given that the expertise on this issue is on the side of mathematics educators, this put them in a privileged position to contribute to these philosophical developments. I will then make a few suggestions on how to concretely foster this interaction.
 
 **Gila Hanna (University of Toronto): _Interactive theorem provers in mathematical practice and teaching_**
 
@@ -144,7 +147,7 @@ I will present studies in which I investigate what types of diagrams that underg
 
 # Organizers
 
-- [Yacin Hamami](https://www.yacinhamami.com/) (FNRS, Université de Liège)
+- [Yacin Hamami](https://www.yacinhamami.com/) (ETH Zürich)
 - [Matthew Inglis](https://www.lboro.ac.uk/departments/maths-education/staff/matthew-inglis/) (Loughborough University)
 - [Brendan Larvor](https://brendanlarvor.wordpress.com/) (University of Hertfordshire)
 - [Keith Weber](https://gse.rutgers.edu/faculty/keith-weber/) (Rutgers University)
