@@ -26,8 +26,7 @@ layout: page
 
 | --------- | ---------- |
 | 9:30—10:00 | Welcome & Coffee |
-| 10:00—10:45 | **Karen François** (Vrije Universiteit Brussel) <br />  _The interaction between philosophy of mathematical practices and mathematics education: concept
-clarification and exemplar_|
+| 10:00—10:45 | **Karen François** (Vrije Universiteit Brussel) <br /> _The interaction between philosophy of mathematical practices and mathematics education—concept, clarification and examplar_|
 | 10:45—11:15 | Coffee Break |
 | 11:15—12:00 | **Colin Foster** (Loughborough University) <br /> _Teaching problem solving in school mathematics_|
 | 12:00—14:00 | Lunch |
