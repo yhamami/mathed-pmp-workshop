@@ -12,7 +12,7 @@ layout: page
 
 | --------- | ---------- |
 | 9:30—10:00 | Welcome & Coffee |
-| 10:00—10:45 | **Gila Hanna** (University of Toronto) <br /> _Interactive theorem provers in mathematical practice and teaching_|
+| 10:00—10:45 | **Colin Foster** (Loughborough University) <br /> _Teaching problem solving in school mathematics_ |
 | 10:45—11:15 | Coffee Break |
 | 11:15—12:00 | **Brendan Larvor** (University of Hertfordshire) <br /> _Every classroom is multicultural_|
 | 12:00—14:00 | Lunch |
@@ -28,7 +28,7 @@ layout: page
 | 9:30—10:00 | Welcome & Coffee |
 | 10:00—10:45 | **Karen François** (Vrije Universiteit Brussel) <br /> _The interaction between philosophy of mathematical practices and mathematics education—concept, clarification and examplar_|
 | 10:45—11:15 | Coffee Break |
-| 11:15—12:00 | **Colin Foster** (Loughborough University) <br /> _Teaching problem solving in school mathematics_|
+| 11:15—12:00 | **Gila Hanna** (University of Toronto) <br /> _Interactive theorem provers in mathematical practice and teaching_ |
 | 12:00—14:00 | Lunch |
 | 14:00—14:45 | **Ellen Lehet** (Lees-McRae College) <br /> _Mathematical explanation in the classroom_|
 | 14:45—15:00 | Coffee Break |
