@@ -33,11 +33,11 @@ The program is available [here](https://yhamami.github.io/mathed-pmp-workshop/pr
 
 # Location
 
-The workshop will take place in Room SCH001 of the [Schofield Building](https://maps.lboro.ac.uk/?l=schofield). Coffee and lunch breakes will be in the room opposite to it. 
+The workshop will take place in Room SCH001 of the [Schofield Building](https://maps.lboro.ac.uk/?l=schofield). Coffee and lunch breaks will be in the room opposite to it. 
 
-# Online Attendance
+# Online Attendance & Live Stream
 
-We will make it possible to attend the meeting online. Instructions on how to attend will be communicated after registration.
+The workshop will be streamed live on StreamYard [here](https://streamyard.com/watch/3f66Fp3jzUgP) (recommended) and YouTube [here](https://www.youtube.com/@LboroCMC/streams).
 
 # Registration
 
