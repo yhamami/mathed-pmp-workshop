@@ -22,7 +22,7 @@ layout: page
 | 15:45—16:15 | Coffee Break |
 | 16:15—17:00| **Dirk Schlimm** (McGill University) <br /> _Learning and understanding mathematical notations_ | 
 
-**Tuesday 13 June 2023** (live stream: [StreamYard](https://streamyard.com/watch/AtU7ADqxuSxg) and [YouTube](https://www.youtube.com/watch?v=7RjeOD2PBeE))
+**Tuesday 13 June 2023** (live stream: [StreamYard](https://streamyard.com/watch/AtU7ADqxuSxg) and [YouTube](https://www.youtube.com/watch?v=bsqOkKk4CVs))
 
 | --------- | ---------- |
 | 9:30—10:00 | Welcome & Coffee |
@@ -36,7 +36,7 @@ layout: page
 | 15:45—16:15 | Coffee Break |
 | 16:15—17:00|  **Nathalie Sinclair** (Simon Fraser University) <br /> _Aesthetic considerations in mathematics education (research)_ | 
 
-**Wednesday 14 June 2023** (live stream: [StreamYard](https://streamyard.com/watch/4qsnwFXkZqun) and [YouTube](https://www.youtube.com/watch?v=7RjeOD2PBeE))
+**Wednesday 14 June 2023** (live stream: [StreamYard](https://streamyard.com/watch/4qsnwFXkZqun) and [YouTube](https://www.youtube.com/watch?v=VWzPhMdP3ZM))
 
 
 | --------- | ---------- |
